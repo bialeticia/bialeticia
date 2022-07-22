@@ -10,7 +10,7 @@
   <img align="center" alt="Bia-Oracle" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Bia-Apex" height="90" width="90" src="https://img.icons8.com/plasticine/100/000000/oracle-application-express.png">
   <img align="center" alt="Bia-Plsql" height="90" width="90" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png">
-  <img align="right" alt="Bia-pic" height="280" style="border-radius:50px;" src="https://media1.giphy.com/media/3o7budMRwZvNGJ3pyE/200w.gif?cid=82a1493bzrtb17nhzo8jmuymo9r0qqs31ljnpdoya1nkh7ad&rid=200w.gif&ct=g">
+  <img align="right" alt="Bia-pic" height="200" src="https://media1.giphy.com/media/3o7budMRwZvNGJ3pyE/200w.gif?cid=82a1493bzrtb17nhzo8jmuymo9r0qqs31ljnpdoya1nkh7ad&rid=200w.gif&ct=g">
 </div>
   
   ##
