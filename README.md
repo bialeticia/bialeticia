@@ -8,8 +8,8 @@
   <img align="center" alt="Bia-Ubuntu" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Bia-Mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bia-Oracle" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Bia-Apex" height="110" width="110" src="https://img.icons8.com/plasticine/100/000000/oracle-application-express.png">
-  <img align="center" alt="Bia-Plsql" height="110" width="110" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png">
+  <img align="center" alt="Bia-Apex" height="100" width="100" src="https://img.icons8.com/plasticine/100/000000/oracle-application-express.png">
+  <img align="center" alt="Bia-Plsql" height="100" width="100" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png">
 </div>
   
   ##
