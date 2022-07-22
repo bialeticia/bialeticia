@@ -15,6 +15,6 @@
   ##
  
 <div> 
- <a href="https://discordapp.com/users/bialeticia#4612/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png"/>" target="_blank"></a> 
- <a href = "mailto:biancaleticia.moura@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>" target="_blank"></a>
+ <a href="https://discordapp.com/users/bialeticia#4612/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png"/></a> 
+ <a href = "mailto:biancaleticia.moura@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/></a>
 </div>
