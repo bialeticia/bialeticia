@@ -1,4 +1,4 @@
-## Olá, sou a Bianca, estudante na área de tecnologia da informação.
+## Hello, I'm Bianca, information technology student.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
