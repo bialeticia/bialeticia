@@ -18,5 +18,5 @@
 <div> 
  <a href="https://discordapp.com/users/bialeticia#4612/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
  <a href = "mailto:biancaleticia.moura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <img align="right" alt="Bia-pic" height="200" style="border-radius:50px;" src="https://pa1.narvii.com/6889/c019193a7b6eafc916f2eba70d0e87ad7d88cd60r1-411-454_hq.gif">
+ <img align="left" alt="Bia-pic" height="200" style="border-radius:50px;" src="https://pa1.narvii.com/6889/c019193a7b6eafc916f2eba70d0e87ad7d88cd60r1-411-454_hq.gif">
 </div>
